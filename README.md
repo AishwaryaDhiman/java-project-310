@@ -12,3 +12,6 @@ A teacher has to enter the password and then he/she can edit the deatils.Can add
 
 STUDENT MODULE:
 A student can view his/her details and also ask queries from the teacher. She can also view the assigned homework by the teacher.
+
+
+It has a sort of query management system as a small part of it.
