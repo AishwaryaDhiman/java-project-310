@@ -15,3 +15,10 @@ A student can view his/her details and also ask queries from the teacher. She ca
 
 
 It has a sort of query management system as a small part of it.
+
+IT INCLUDES:
+
+== INHERITANCE 
+== EXCEPTION HANDLING 
+== OVER-RIDING METHODS 
+== POLYMORPHISM
